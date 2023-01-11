@@ -8,6 +8,7 @@
 Установлен nginx
 
 apt update
+
 apt install nginx
 
 В итоге т.к. установлен Debian, то версия nginx была не самая последняя.
