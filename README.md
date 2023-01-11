@@ -17,8 +17,8 @@ apt install nginx
 
 Следующий шаг, настройка load balancer.
 
-Был создан новый файл nginx.conf, на всякий случай старый конф. файл был переименован в nginx.conf_old, /etc/nginx/nginx.conf
-в секцию HTTP были внесены след. изменения
+Был создан новый файл nginx.conf, на всякий случай старый конф. файл был переименован в nginx.conf_old,
+/etc/nginx/nginx.conf в секцию HTTP были внесены след. изменения
 
 ![изображение](https://user-images.githubusercontent.com/109180164/211828304-dd7284c7-65e4-446f-8079-7f2c61a64fb8.png)
 
